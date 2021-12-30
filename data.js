@@ -1993,4 +1993,22 @@ module.exports = [
       "Content Creation",
     ],
   },
+  {
+    name: "Leon AI",
+    description:
+      "Writing about Leon, your open-source personal assistant. I share my tips and creativity along the way.",
+    url: "https://blog.getleon.ai",
+    twitter: "@louistiti_fr",
+    tags: [
+      "Tech",
+      "Web Development",
+      "JavaScript",
+      "Node.js",
+      "Python",
+      "Tech",
+      "Software Development",
+      "Productivity",
+      "AI"
+    ],
+  },
 ];
